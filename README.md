@@ -76,7 +76,7 @@ I'm always open to connecting with fellow developers, students, and people inter
 
 <p align="center">
   
-  <a href="www.linkedin.com/in/adarsh-pandey-760321400">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/adarsh-pandey-760321400/">LinkedIn</a> •
   <a href="https://www.instagram.com/adarshpandey0012/">Instagram</a>
 </p>
 
